@@ -5,4 +5,3 @@ RC car with Raspberry Pi microprocessor, uses image processing & ML to detect tr
 
 <img src="/img/sakura.jpg" alt="Sakura"/>
 <img src="/img/car.png" alt="Car"/>
-<img src="/img/picamera.jpg" alt="Camera"/> <img src="/img/pi.jpg" alt="Pi"/>
